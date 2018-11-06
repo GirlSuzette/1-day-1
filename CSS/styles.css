@@ -1,0 +1,39 @@
+div {
+    display: block;
+}
+.stories{
+   display: flex;
+   flex-wrap: wrap;
+}
+.storie-item {
+    width: 30%;
+    margin: 10px;
+    border: 1px solid #ccc;
+}
+
+.item-text {
+    padding: 20px;
+}
+
+.item-imagen img {
+    width: 100%;
+}
+.container{
+	padding: 50px;
+	margin: 30px;
+}
+.text1{
+	color: blue;
+	height: 70px;
+}
+
+.text2{
+	color: green;
+}
+
+.text3{
+	color: grey;
+}
+
+
+
